@@ -1,0 +1,12 @@
+/**:
+  ros__parameters:
+    angle_filter_min: -2.35619449
+    angle_filter_max: 2.35619449
+    vehicle_width: 1.0
+    turn_in_timing: 0.15
+    wheel_base: 0.3
+    min_scan_range: 0.2
+    max_scan_range: 10.0
+    green_speed: 2.0
+    yellow_speed: 1.0
+    max_distance_from_right: 1.0
